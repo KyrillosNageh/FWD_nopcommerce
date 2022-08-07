@@ -17,7 +17,7 @@ View Products, Product Search, Advanced Search
 Shopping Cart (Add Product/s, Update Quantity, Remove Product)
 Checkout (Change Address, Add Comments, Payment Method, Edit Details, Order Confirmation)
 
-===========================================================================================
+
 Test Scenarios:
 SC1- User could register with valid data
 SC2- User could log in with valid email and password
